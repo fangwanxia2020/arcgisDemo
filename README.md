@@ -1,1 +1,3 @@
-# arcgisDemo
+# arcgis-demo
+
+arcgis-demo
